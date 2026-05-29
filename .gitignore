@@ -1,15 +1,4 @@
-# 图片文件
-*.jpg
-*.jpeg
-*.png
-*.bmp
-*.gif
-*.webp
-*.tif
-*.tiff
 
-# 文本文件
-*.txt
 
 # PyTorch / 模型权重文件
 *.pt
