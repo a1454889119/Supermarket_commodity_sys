@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@172.21.198.239:22 password (2)" deleteMissingItems="true" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="HNUTB">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.21.198.239:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yjf/lc" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.21.198.239:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yjf/lc" local="$PROJECT_DIR$/../../dialgo" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

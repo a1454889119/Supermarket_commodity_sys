@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dde1169-8cb4-41fc-b57c-c6f91256007c" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2QmFJuIcRvc4pYJmAAmigCCVvMi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main (1).executor": "Run",
+    "Python.train (1).executor": "Run",
+    "Python.视频.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Pycharm/dialgo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Pycharm\YOLO\yolov5\models" />
+      <recent name="E:\Pycharm\YOLO\yolov5\data\scripts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Pycharm\YOLO\Supermarket_commodity_sys" />
+      <recent name="E:\Pycharm\YOLO\yolov5\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train (1)">
+    <configuration name="视频" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket_commodity_sys" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../YOLO/yolov5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../YOLO/yolov5/视频.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket_commodity_sys" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\LICAN\anaconda3\envs\pytorch\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train - 副本" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="yolov5-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train - 副本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket_commodity_sys" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../YOLO/yolov5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../YOLO/yolov5/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Supermarket_commodity_sys" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../yolov5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../yolov5/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.视频" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.train - 副本" />
+      <item itemvalue="Python.train (1)" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.视频" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.train - 副本" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="5dde1169-8cb4-41fc-b57c-c6f91256007c" name="变更" comment="" />
+      <created>1685950782472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685950782472</updated>
+      <workItem from="1685950784376" duration="2255000" />
+      <workItem from="1685975553697" duration="2747000" />
+      <workItem from="1685979311238" duration="148000" />
+      <workItem from="1685979537880" duration="8540000" />
+      <workItem from="1686123263457" duration="584000" />
+      <workItem from="1686148655271" duration="164000" />
+      <workItem from="1686495419853" duration="42000" />
+      <workItem from="1686495476024" duration="37000" />
+      <workItem from="1686551777233" duration="5948000" />
+      <workItem from="1686615874775" duration="1452000" />
+      <workItem from="1686618583497" duration="233000" />
+      <workItem from="1686619103490" duration="113000" />
+      <workItem from="1686642324225" duration="52000" />
+      <workItem from="1686665313684" duration="295000" />
+      <workItem from="1686666750221" duration="54000" />
+      <workItem from="1686710854969" duration="654000" />
+      <workItem from="1686798740965" duration="199000" />
+      <workItem from="1686833584526" duration="665000" />
+      <workItem from="1687077397073" duration="98000" />
+      <workItem from="1687102575099" duration="526000" />
+      <workItem from="1687621753822" duration="188000" />
+      <workItem from="1693926850963" duration="10000" />
+      <workItem from="1712391898025" duration="4000" />
+      <workItem from="1712391958919" duration="3355000" />
+      <workItem from="1712552033058" duration="1085000" />
+      <workItem from="1712555093882" duration="869000" />
+      <workItem from="1712673013936" duration="519000" />
+      <workItem from="1712722448614" duration="1810000" />
+      <workItem from="1712751655686" duration="1147000" />
+      <workItem from="1712800009933" duration="2636000" />
+      <workItem from="1712811525296" duration="3337000" />
+      <workItem from="1712835187359" duration="1594000" />
+      <workItem from="1712838506225" duration="1239000" />
+      <workItem from="1712844264608" duration="3788000" />
+      <workItem from="1712896666166" duration="3105000" />
+      <workItem from="1712900230943" duration="9959000" />
+      <workItem from="1712918651141" duration="4019000" />
+      <workItem from="1712930874676" duration="963000" />
+      <workItem from="1712933462114" duration="64000" />
+      <workItem from="1712974591665" duration="108000" />
+      <workItem from="1712974973737" duration="1557000" />
+      <workItem from="1712976554857" duration="26000" />
+      <workItem from="1712976844063" duration="138000" />
+      <workItem from="1712977751350" duration="731000" />
+      <workItem from="1712985518983" duration="390000" />
+      <workItem from="1712997274619" duration="1131000" />
+      <workItem from="1712999959375" duration="2743000" />
+      <workItem from="1713020528524" duration="635000" />
+      <workItem from="1713069551673" duration="520000" />
+      <workItem from="1713082257758" duration="221000" />
+      <workItem from="1713180062120" duration="906000" />
+      <workItem from="1713254770662" duration="379000" />
+      <workItem from="1713256307274" duration="94000" />
+      <workItem from="1713268341732" duration="1957000" />
+      <workItem from="1713279266512" duration="234000" />
+      <workItem from="1713345509638" duration="673000" />
+      <workItem from="1713420078318" duration="101000" />
+      <workItem from="1713427666000" duration="273000" />
+      <workItem from="1713506481333" duration="552000" />
+      <workItem from="1713508141659" duration="76000" />
+      <workItem from="1713943261183" duration="1965000" />
+      <workItem from="1714117949356" duration="491000" />
+      <workItem from="1714736404180" duration="126000" />
+      <workItem from="1715154991612" duration="1107000" />
+      <workItem from="1715167118890" duration="605000" />
+      <workItem from="1715403094407" duration="2538000" />
+      <workItem from="1715423553186" duration="434000" />
+      <workItem from="1715441387889" duration="618000" />
+      <workItem from="1715489769319" duration="108000" />
+      <workItem from="1715489888793" duration="1000" />
+      <workItem from="1715507850733" duration="241000" />
+      <workItem from="1715755321185" duration="615000" />
+      <workItem from="1715758125794" duration="3427000" />
+      <workItem from="1715762668495" duration="344000" />
+      <workItem from="1715781488143" duration="82000" />
+      <workItem from="1715782858100" duration="76000" />
+      <workItem from="1715786384347" duration="121000" />
+      <workItem from="1715786520238" duration="114000" />
+      <workItem from="1715788090203" duration="1922000" />
+      <workItem from="1715931489387" duration="609000" />
+      <workItem from="1715936763202" duration="208000" />
+      <workItem from="1715936986960" duration="1945000" />
+      <workItem from="1715947173048" duration="317000" />
+      <workItem from="1715958606895" duration="13000" />
+      <workItem from="1716002920641" duration="452000" />
+      <workItem from="1716031668230" duration="181000" />
+      <workItem from="1716032751865" duration="297000" />
+      <workItem from="1716108568324" duration="738000" />
+      <workItem from="1716178852907" duration="375000" />
+      <workItem from="1716210125826" duration="13000" />
+      <workItem from="1716223873998" duration="543000" />
+      <workItem from="1716224550572" duration="109000" />
+      <workItem from="1716264186591" duration="1791000" />
+      <workItem from="1716280730238" duration="446000" />
+      <workItem from="1716296160372" duration="1153000" />
+      <workItem from="1716309175325" duration="297000" />
+      <workItem from="1716437860190" duration="628000" />
+      <workItem from="1716457571906" duration="340000" />
+      <workItem from="1716463302892" duration="1212000" />
+      <workItem from="1716516577272" duration="3565000" />
+      <workItem from="1716525585125" duration="307000" />
+      <workItem from="1716527637863" duration="4209000" />
+      <workItem from="1716552449328" duration="7000" />
+      <workItem from="1717825526064" duration="810000" />
+      <workItem from="1717826841602" duration="40000" />
+      <workItem from="1717826901766" duration="145000" />
+      <workItem from="1717827061079" duration="697000" />
+      <workItem from="1718522735102" duration="3000" />
+      <workItem from="1718522747438" duration="42000" />
+      <workItem from="1718765696008" duration="1413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main - 副本.py</url>
+          <line>168</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/train____py$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1712976877954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$train__1_.coverage" NAME="train (1) 覆盖结果" MODIFIED="1717827749927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../YOLO/yolov5" />
+    <SUITE FILE_PATH="coverage/_py$train.coverage" NAME="train 覆盖结果" MODIFIED="1712552103046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$train.coverage" NAME="train 覆盖结果" MODIFIED="1713256339496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../yolov5" />
+    <SUITE FILE_PATH="coverage/_py$.coverage" NAME="视频 覆盖结果" MODIFIED="1712800868960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/train_py$train.coverage" NAME="train 覆盖结果" MODIFIED="1686615985851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1712821880625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../学习/毕业设计/系统设计" />
+    <SUITE FILE_PATH="coverage/train____py$train.coverage" NAME="train 覆盖结果" MODIFIED="1712394496279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolo_py$train__1_.coverage" NAME="train (1) 覆盖结果" MODIFIED="1687103047384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../学习/jupyter/代做/带论文/基于yolo的疲劳检查" />
+    <SUITE FILE_PATH="coverage/yolov5_master$train.coverage" NAME="train 覆盖结果" MODIFIED="1685952392169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main____py$main___.coverage" NAME="main - 副本 覆盖结果" MODIFIED="1712926541191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$main___.coverage" NAME="main - 副本 覆盖结果" MODIFIED="1712911801137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main1____py$main1___.coverage" NAME="main1 - 副本 覆盖结果" MODIFIED="1712839741004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/main_py$.coverage" NAME="视频 覆盖结果" MODIFIED="1717827678649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../YOLO/yolov5" />
+    <SUITE FILE_PATH="coverage/main1____py$__1_.coverage" NAME="视频 (1) 覆盖结果" MODIFIED="1712839498168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../yolov5" />
+    <SUITE FILE_PATH="coverage/train_py$.coverage" NAME="视频 覆盖结果" MODIFIED="1712733026071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/train____py$train___.coverage" NAME="train - 副本 覆盖结果" MODIFIED="1712976849939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolo_py$__1_.coverage" NAME="视频 (1) 覆盖结果" MODIFIED="1687103074908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../学习/jupyter/代做/带论文/基于yolo的疲劳检查" />
+    <SUITE FILE_PATH="coverage/train_py$main.coverage" NAME="main 覆盖结果" MODIFIED="1685975704010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../学习/jupyter/人脸识别系统" />
+    <SUITE FILE_PATH="coverage/main_py$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1717827431136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

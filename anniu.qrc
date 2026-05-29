@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>images/anniu.png</file>
+    <file>images/beijin.png</file>
+     <file>images/780.jpg</file>
+    <file>images/1234.jpg</file>
+</qresource>
+</RCC>
+
