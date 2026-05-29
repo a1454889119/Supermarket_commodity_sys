@@ -1,4 +1,4 @@
-﻿# Supermarket Commodity System
+﻿# Supermarket Commodity System-超市商品识别与自助结算系统
 
 基于 PyQt5 和 YOLOv5 的超市商品识别与自助结算系统。程序通过摄像头实时识别商品，自动统计商品数量与金额，并支持管理员修改价格、调整检测参数、查看销量统计。
 
